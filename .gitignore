@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Python Virtual Environments
+venv/
+spleeter-env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pre-trained models
+pretrained_models/
